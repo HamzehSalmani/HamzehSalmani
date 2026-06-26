@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hamzeh Salmani 👋</h1>
+<h1 align="center">Hi, I'm Hamzeh </h1>
 
 <p align="center">
   <b>PhD in Medical Genetics · Genetic Lab Director</b><br>
