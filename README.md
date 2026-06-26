@@ -7,7 +7,7 @@
 
 ---
 
-### 🧬 About me
+### About me
 - 🔬 PhD in Medical Genetics and director of a genetics lab.
 - 📊 Extensive experience in **high-throughput data analysis** and bioinformatics pipelines.
 - 🤖 Passionate about **data science and AI** — building practical agents and automation that turn data into useful output.
